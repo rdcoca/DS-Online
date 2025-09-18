@@ -38,6 +38,7 @@ cd Documents/GitHub
 2. Abrir Git Bash en ese directorio.
 3. Clonar el repositorio con
 `
-git clone https://github.com/ta-ds-online/DS_Online.git
+git clone https://github.com/ds-online-tb/DS-Online.git
 `
 4. Hacer `git pull` para actualizar.
+
