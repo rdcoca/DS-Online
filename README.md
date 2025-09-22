@@ -1,6 +1,6 @@
 ![LogoTB](logo.png)
 
-# **Data Science Online Madrid Septiembre 2025 - Abril 2026, Repositorio de Teoría**
+# **Data Science Online Madrid Septiembre 2025 - Abril 2026**
   - [**Descripción**](#descripción)
   - [**Comentarios y Aclaraciones**](#comentarios-y-aclaraciones)
   - [**Clonar y Actualizar Repositorio con Git Bash**](#clonar-y-actualizar-repositorio-con-Git-Bash)
@@ -41,4 +41,5 @@ cd Documents/GitHub
 git clone https://github.com/ds-online-tb/DS-Online.git
 `
 4. Hacer `git pull` para actualizar.
+
 
