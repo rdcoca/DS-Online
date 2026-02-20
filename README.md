@@ -1,9 +1,12 @@
 ![LogoTB](logo.png)
 
-# **Data Science Online Madrid Septiembre 2025 - Abril 2026**
-  - [**Descripción**](#descripción)
-  - [**Comentarios y Aclaraciones**](#comentarios-y-aclaraciones)
-  - [**Clonar y Actualizar Repositorio con Git Bash**](#clonar-y-actualizar-repositorio-con-Git-Bash)
+# Data Science Portfolio: Theory & Implementation
+This repository contains my progress through the Data Science Bootcamp (Sept 2025 - April 2026). It showcases my ability to handle end-to-end data projects.
+
+### 🚀 Key Highlights:
+- **Project_Break_I_EDA:** Comprehensive Exploratory Data Analysis including data cleaning and visualization.
+- **Machine Learning:** Implementation of K-Means clustering and Supervised Learning models using Scikit-learn.
+- **Data Engineering:** SQL scripts and Python automation for data preprocessing.
 
 **Descripción**
 ---
@@ -41,5 +44,6 @@ cd Documents/GitHub
 git clone https://github.com/ds-online-tb/DS-Online.git
 `
 4. Hacer `git pull` para actualizar.
+
 
 
